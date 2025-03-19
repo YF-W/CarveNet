@@ -571,10 +571,10 @@ class ConditionNetwork(nn.Module):
         return weights
 
 
-class PC_HIINet(nn.Module):
+class CarveNet(nn.Module):
     def __init__(self, in_channels=3, out_channels=1, big_kernel=7, big_padding=3, small_kernel=5, small_padding=2,
                  channels=[24, 40, 64, 96, 192]):
-        super(PC_HIINet, self).__init__()
+        super(CarveNet, self).__init__()
 
         # ResNet
         resnet = resnet_model.resnet34(pretrained=True)
@@ -841,7 +841,7 @@ if __name__ == "__main__":
     torch.Tensor.__repr__ = custom_repr
 
     x = torch.randn(1, 3, 224, 224)
-    model = PC_HIINet()
+    model = CarveNet()
     out = model(x)
     print(out.shape)
 
