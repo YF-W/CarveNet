@@ -9,7 +9,7 @@ It will be presented after the paper is published.
 ## Code Usage
 ### 1. Clone the repository.
 ```bash
-git clone https://github.com/YF-W/PC-HIINet.git
+git clone https://github.com/YF-W/CarveNet.git
 ```
 ### 2.Place the dataset into the "data" folder.
 
