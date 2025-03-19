@@ -40,10 +40,6 @@ python train.py
 
 5. 2018 Data Science Bowl: [https://www.kaggle.com/competitions/data-science-bowl-2018/data](https://www.kaggle.com/competitions/data-science-bowl-2018/data)
 
-6. MICCAI-Tooth-Segmentation: [https://tianchi.aliyun.com/dataset/156596](https://tianchi.aliyun.com/dataset/156596)
+6. CT liver: [https://www.kaggle.com/datasets/zxcv2022/digital-medical-images-for--download-resource](https://www.kaggle.com/datasets/zxcv2022/digital-medical-images-for--download-resource)
 
-7. Brain MRI segmentation: [https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
-
-8. MICCAI 2020 TN-SCUI: [https://github.com/WAMAWAMA/TNSCUI2020-Seg-Rank1st](https://github.com/WAMAWAMA/TNSCUI2020-Seg-Rank1st)
-
-9. CT liver: [https://www.kaggle.com/datasets/zxcv2022/digital-medical-images-for--download-resource](https://www.kaggle.com/datasets/zxcv2022/digital-medical-images-for--download-resource)
+7. 
