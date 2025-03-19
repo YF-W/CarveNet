@@ -2,7 +2,7 @@
 
 ## Paper Link: (under review)
 
-## The Overview of PC-HIINet (Pixel Carving and Heterogeneous Information Integration Network)
+## The Overview of CarveNet (Pixel Carving and Heterogeneous Information Integration Network)
 
 It will be presented after the paper is published.
 
