@@ -42,4 +42,6 @@ python train.py
 
 6. CT liver: [https://www.kaggle.com/datasets/zxcv2022/digital-medical-images-for--download-resource](https://www.kaggle.com/datasets/zxcv2022/digital-medical-images-for--download-resource)
 
-7. 
+7. The Automated Cardiac Diagnosis Challenge (ACDC): [https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html](https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html)
+
+8. The Synapse dataset contains multi-type: [https://github.com/Beckschen/TransUNet](https://github.com/Beckschen/TransUNet)
