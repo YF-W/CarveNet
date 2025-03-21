@@ -1,4 +1,4 @@
-# A Multi-Branch Pixel Carving Network Framework and Heterogeneous Information Extraction Method for Multi-Lesion Analysis
+# A Carving Hierarchical Information Integration Network with Structured Pooling and Multi-Window ViT in Medical Image Segmentation
 
 ## Paper Link: (under review)
 
