@@ -1,6 +1,6 @@
-# A Carving Hierarchical Information Integration Network with Structured Pooling and Multi-Window ViT in Medical Image Segmentation
+# A Carving Hierarchical Information Integration Network for Medical Image Segmentation
 
-## Paper Link: (under review)
+## Paper Link: (Under Review)
 
 ## The Overview of CarveNet (Pixel Carving and Heterogeneous Information Integration Network)
 
