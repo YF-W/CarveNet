@@ -4,7 +4,7 @@
 
 ## The Overview of CarveNet (Pixel Carving and Heterogeneous Information Integration Network)
 
-It will be presented after the paper is published.
+![610943b7e97709e1959228264f1264e0](https://github.com/user-attachments/assets/60c3189b-aa70-40f6-969c-9a0bd8b5fa42)
 
 ## Code Usage
 ### 1. Clone the repository.
