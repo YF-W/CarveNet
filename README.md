@@ -28,7 +28,7 @@ git clone https://github.com/YF-W/CarveNet.git
 python train.py
 ```
 
-## Datasets
+## 🗒Datasets
 
 1. Finding and Measuring Lungs in CT Data: [https://www.kaggle.com/datasets/kmader/finding-lungs-in-ct-data](https://www.kaggle.com/datasets/kmader/finding-lungs-in-ct-data)
 
@@ -46,7 +46,7 @@ python train.py
 
 8. The Synapse dataset contains multi-type: [https://github.com/Beckschen/TransUNet](https://github.com/Beckschen/TransUNet)
 
-## Citation
+## ✨Citation
 
 ```bash
 @article{zhang2025carving,
