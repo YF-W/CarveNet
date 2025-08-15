@@ -58,4 +58,3 @@ python train.py
   publisher={Elsevier}
 }
 
-'''
