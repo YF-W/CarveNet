@@ -45,3 +45,14 @@ python train.py
 7. The Automated Cardiac Diagnosis Challenge (ACDC): [https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html](https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html)
 
 8. The Synapse dataset contains multi-type: [https://github.com/Beckschen/TransUNet](https://github.com/Beckschen/TransUNet)
+
+## Citation
+
+'''@article{zhang2025carving,
+  title={A Carving Hierarchical Information Integration Network for Medical Image Segmentation},
+  author={Zhang, Yutong and Wang, Yuefei and Wan, Yuxuan and Zhao, Qinyu and Zhao, Liangyan and Li, Binxiong and Zhang, Li and Chen, Zhixuan},
+  journal={Pattern Recognition},
+  pages={112291},
+  year={2025},
+  publisher={Elsevier}
+}'''
