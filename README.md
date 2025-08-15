@@ -1,6 +1,6 @@
 # A Carving Hierarchical Information Integration Network for Medical Image Segmentation
 
-## Paper Link: (Under Review)
+## Paper Link: https://doi.org/10.1016/j.patcog.2025.112291 [PR]
 
 ## The Overview of CarveNet (Pixel Carving and Heterogeneous Information Integration Network)
 
